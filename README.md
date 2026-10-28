@@ -13,14 +13,14 @@ A repository for personal AI Agent setup, like custom skills, plugins and AGENTS
 
 ```text
 /plugin marketplace add ekawijayasusilo/shared_agent_setup
-/plugin install prompt-engineering@shared-agent-setup
+/plugin install prompt-engineering@swe-skills
 ```
 
 ### Codex
 
 ```bash
 codex plugin marketplace add ekawijayasusilo/shared_agent_setup
-codex plugin add prompt-engineering@shared-agent-setup
+codex plugin add prompt-engineering@swe-skills
 ```
 
 ### Any agent, via skills.sh

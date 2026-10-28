@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "shared-agent-setup",
+  "name": "swe-skills",
   "description": "Personal AI agent plugins and skills by Eka Wijaya Susilo.",
   "owner": {
     "name": "Eka Wijaya Susilo",
