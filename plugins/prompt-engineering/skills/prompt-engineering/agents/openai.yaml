@@ -1,0 +1,5 @@
+interface:
+  display_name: "Prompt Engineering"
+  short_description: "Refine a draft prompt into a clear, structured one"
+policy:
+  allow_implicit_invocation: false

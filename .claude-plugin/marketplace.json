@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shared-agent-setup",
+  "description": "Personal AI agent plugins and skills by Eka Wijaya Susilo.",
+  "owner": {
+    "name": "Eka Wijaya Susilo",
+    "email": "ekawijayasusilo@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "prompt-engineering",
+      "description": "Refine a draft prompt into a clear, structured prompt, asking up to 3 framing questions first, or diagnose why a prompt underperforms.",
+      "author": {
+        "name": "Eka Wijaya Susilo"
+      },
+      "category": "productivity",
+      "source": "./plugins/prompt-engineering"
+    }
+  ]
+}

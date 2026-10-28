@@ -1,0 +1,13 @@
+{
+  "name": "prompt-engineering",
+  "version": "1.0.0",
+  "description": "Refine a draft prompt into a clear, structured prompt, asking up to 3 framing questions first, or diagnose why a prompt underperforms.",
+  "author": {
+    "name": "Eka Wijaya Susilo",
+    "email": "ekawijayasusilo@gmail.com"
+  },
+  "homepage": "https://github.com/ekawijayasusilo/shared_agent_setup",
+  "repository": "https://github.com/ekawijayasusilo/shared_agent_setup",
+  "license": "MIT",
+  "keywords": ["prompt-engineering", "prompts", "llm", "agents", "skills"]
+}
