@@ -1,6 +1,6 @@
 {
   "name": "pi-caveman-autoload",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Pi extension that keeps your installed Caveman skill active through a system-prompt section, with a footer status and /caveman controls.",
   "type": "module",
   "license": "MIT",
