@@ -1,0 +1,17 @@
+{
+  "name": "pi-caveman-autoload",
+  "version": "0.1.0",
+  "description": "Pi extension that keeps your installed Caveman skill active through a system-prompt section, with a footer status and /caveman controls.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["pi-package"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekawijayasusilo/shared_agent_setup.git",
+    "directory": "pi-extensions/pi-caveman-autoload"
+  },
+  "homepage": "https://github.com/ekawijayasusilo/shared_agent_setup/tree/main/pi-extensions/pi-caveman-autoload",
+  "files": ["index.js", "config.js"],
+  "scripts": { "test": "node --test ./test/*.test.js" },
+  "pi": { "extensions": ["./index.js"] }
+}
